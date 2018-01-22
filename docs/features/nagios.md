@@ -86,7 +86,7 @@ You will notice that the above configuration example is very light and is missin
 
 Two of the most important elements of Nagios configuration which you need to understand are [object definitions](https://assets.nagios.com/downloads/nagioscore/docs/nagioscore/3/en/objectdefinitions.html) and [object inheritance](https://assets.nagios.com/downloads/nagioscore/docs/nagioscore/3/en/objectinheritance.html).
 
-You can pass three optional parameters to Nagios via GET/POST and these are:
+You can pass these optional parameters to Nagios via GET/POST and these are:
 
 1. `host_definition`; defaults to: `ixp-manager-member-host`.
 2. `service_definition`; defaults to `ixp-manager-member-service`.
