@@ -388,7 +388,7 @@ define command{
 }
 ```
 
-The Nagios script we use is bundled with [inex/birdseye](https://github.com/inex/birdseye) and can be found [here](https://github.com/inex/birdseye/tree/master/bin).
+The Nagios script we use is bundled with [inex/birdseye](https://github.com/inex/birdseye) and can be found [here](https://github.com/inex/birdseye/tree/master/bin). Note that these scripts require the php-curl package to be installed on the host.
 
 Typical Nagios state output:
 
