@@ -26,7 +26,7 @@ There is only a handful of configuration options required and a typical and comp
 GRAPHER_BACKENDS="mrtg|sflow|smokeping"
 GRAPHER_CACHE_ENABLED=true
 
-GRAPHER_BACKEND_MRTG_DBTYPE="rrd"
+GRAPHER_BACKEND_MRTG_DBTYPE="log"
 GRAPHER_BACKEND_MRTG_WORKDIR="/srv/mrtg"
 GRAPHER_BACKEND_MRTG_LOGDIR="/srv/mrtg"
 
